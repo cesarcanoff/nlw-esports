@@ -1,37 +1,25 @@
-<p align="center">
-<img src="./assets/img/nlw-esports-logo.svg" alt="Next Level Week Esports Logo"/></p>
+<div align="center">
+ <img src="images/nlw-esports-logo.svg" alt="Next Level Week Esports Logo" />
+ <h1>🟣 Next Level Week - eSports 🟣</h1>
+</div>
 
-<br>
 
-The evolved version of the **Esports** project on the [Next Level Week](https://lp.rocketseat.com.br/nlw) by Rocketseat.
 
-The web client is deployed on Vercel here:
+### 🏆 Tópics
+  - Description
+  - Stacks and Tools
+  - Quick Start
 
- https://nlw-esports-ignite.vercel.app/
-
-The server is deployed on Fly here: 
-
-https://nlw-esports.fly.dev/games
-
-<hr>
-<br>
-
-  - [Description](#description)
-  - [Stack and tools](#stack-and-tools)
-  - [Quickstart](#quickstart)
-
-<br>
-
-## Description
+## ✒️ Description
 
 The project is called *Find your Duo*.
-It is a platform to find the perfect partner to play your favorite game together, by connecting your Twitch.tv account.
+It is a platform to find the partner to play together.
 
 <p align="center">
-<img src="./assets/img/app-preview.jpeg" alt="Next Level Week Esports Logo"/></p>
+<img src="images/app-preview.jpeg" alt="Next Level Week Esports Logo" /></p>
 
-## Stack and tools
-* [Node.js](https://nodejs.org/en/)
+## 📚 Stack and Tools
+* [Node.js](https://nodejs.org/)
 * [Prisma](https://www.prisma.io/)
 * [React](https://reactjs.org/)
 * [React Native](https://reactnative.dev/)
@@ -39,10 +27,9 @@ It is a platform to find the perfect partner to play your favorite game together
 * [Figma](https://www.figma.com/)
 * [Radix UI](https://www.radix-ui.com/)
 
+## ⏩ Quickstart
 
-## Quickstart
-
-### Server
+### 🟣 Running Server
 
 First, create a new ``.env`` file on the root directory, using the `.env.example` template as base.
 
@@ -57,7 +44,7 @@ After that, to start the server, run:
 $ npm run dev
 ```
 
-### Web
+### 🟣 Web
 
 To run the local Vite web client:
 ```sh
@@ -65,4 +52,6 @@ $ npm install
 $ npm run dev
 ```
 
-
+<details><summary>🟣 My Event Ticket</summary><br />
+ <img width="400" src="images/ticket.jpg" />
+</details>
