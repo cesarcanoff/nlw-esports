@@ -100,4 +100,4 @@ app.get("/ads/:id/discord", async (request, response) => {
 });
 
 // Porta 3333 sendo ouvida.
-app.listen(3333);
+app.listen(3000);
